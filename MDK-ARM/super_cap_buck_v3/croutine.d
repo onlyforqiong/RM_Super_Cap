@@ -1,0 +1,14 @@
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+super_cap_buck_v3\croutine.o: D:\APP\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+super_cap_buck_v3\croutine.o: D:\APP\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+super_cap_buck_v3\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+super_cap_buck_v3\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
